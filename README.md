@@ -10,7 +10,7 @@ This Solidity smart contract for very simple driver's licensing system. It allow
     - Events: The contract emits events (LicenseEnrolled, LicenseRenewed, and LicenseRevoked) upon specific actions, facilitating easier tracking and monitoring.
     - private variables: to make accessing only from the declaring contracts.
 
-The Contracts used three handling method which includes require, revert and assert, for handling errors
+The Contracts implemented three handling method which includes require, revert and assert, for handling errors
 
 ## Getting Started
 
