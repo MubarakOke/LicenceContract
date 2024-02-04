@@ -20,19 +20,12 @@ For ease in executing the smart contract,
 the can be copied and use in remix environment to 
 interact with different functions in the contract
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 Contributors names and contact info
 
 ex. Okeola Mubarak  
-ex. [@DomPizzie](https://twitter.com/mubie_X)
+ex. [@Mubie_X](https://twitter.com/mubie_X)
 
 
 ## License
